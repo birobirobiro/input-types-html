@@ -1,5 +1,5 @@
 <h1 align="center">
- Tipos de Inputs no HTML
+ Tipos de Input no HTML
 </h1>
 
 <p align="center">
