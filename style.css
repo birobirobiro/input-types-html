@@ -28,6 +28,8 @@ header h1 {
   grid-template-rows: repeat(3, 1fr);
   grid-column-gap: 20px;
   grid-row-gap: 20px;
+  align-items: center;
+  margin: 0 auto;
 }
 
 .input {
